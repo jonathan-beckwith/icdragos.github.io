@@ -7,6 +7,10 @@ h1 {
     font-size: 5em;
 }
 
+.section {
+    font-size: 2em;
+}
+
 a {
     display: block;
 }
@@ -14,5 +18,5 @@ a {
 body {
     background-image: url("http://www.an-axe-to-grind.com/attachment/25-jan-soucek/3_velika_iluze-6488px");
     background-size: cover;
-    background-image: linear-gradient(to bottom right,#002f4b,#dc4225)
+    background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
 }
