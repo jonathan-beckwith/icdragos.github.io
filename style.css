@@ -3,6 +3,10 @@
     color: white;
 }
 
+h1 {
+    font-size: 10em;
+}
+
 a {
     display: block;
 }
