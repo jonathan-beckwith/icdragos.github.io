@@ -20,18 +20,18 @@ h4 {
 h3 {
     font-size: 25px;
     padding-left: 10px;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 h6 {
     font-size: 15px;
     padding-top: 5px
+    padding-left: 18px;
 }
 
 a {
     display: block;
-    padding-top: 5px;
-    padding-left: 18px;
+    padding-top: 10px;
 }
 
 body {
