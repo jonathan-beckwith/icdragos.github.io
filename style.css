@@ -1,22 +1,18 @@
 * {
     font-family: "Georgia", serif;
     color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 h1 {
     font-size: 75px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 h4 {
     font-size: 40px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 h3 {
