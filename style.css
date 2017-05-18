@@ -5,14 +5,12 @@
 
 h1 {
     font-size: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px
 }
 
 h3 {
     font-size: 30px;
-}
-
-#phd {
-    text-align: inline;
 }
 
 a {
